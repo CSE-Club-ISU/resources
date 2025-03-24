@@ -9,4 +9,10 @@
 - General
     - Languages
     - Web Development
+    - LeetCode
+
+- Tech
+    - Hosting
+        - Vercel
+        - Github Pages
     - 
