@@ -16,3 +16,10 @@
 ## niche
 - Language agnostic* graphics library for making a variety of games (see examples through site)
     - [raylib](https://www.raylib.com/)
+
+- Domains
+    - [namecheap](https://www.namecheap.com/) (cheap)
+
+- Cross-Platform Development Frameworks
+    - [expo](httpsi//expo.dev/) (mobile)
+    - [tauri](https://v2.tauri.app/start/) (desktop mostly)
